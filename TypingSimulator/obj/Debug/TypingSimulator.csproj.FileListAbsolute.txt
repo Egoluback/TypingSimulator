@@ -1,0 +1,10 @@
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\bin\Debug\TypingSimulator.exe.config
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\bin\Debug\TypingSimulator.exe
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\bin\Debug\TypingSimulator.pdb
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.csprojAssemblyReference.cache
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.Properties.Resources.resources
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.csproj.GenerateResource.cache
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.exe
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.pdb
+C:\Users\Egoluback\source\repos\TypingSimulator\TypingSimulator\obj\Debug\TypingSimulator.MainForm.resources
